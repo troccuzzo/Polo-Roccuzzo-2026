@@ -33,7 +33,8 @@ Notice that both data sets of analysis (Replication_Daily.xlsx and Replication_M
 3) Daily total surface net solar radiation: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 2 to download the NetCDF files;
 4) Monthly price index: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/PRI_CONWHONAT_BRI/DCSP_NICUNOBB2010/IT1,167_33_DF_DCSP_NICUNOBB2010_3,1.0 and https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/DCSP_NIC1B2015/IT1,167_744_DF_DCSP_NIC1B2015_4,1.0. Download both files;
 5) Italian population by province: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_POPULATION/DCIS_POPRES1/IT1,22_289_DF_DCIS_POPRES1_1,1.0. Download the 2024 file;
-6) EUROSTAT prices: https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202__custom_20359708/default/table. Download the prices for Italian consumers in BAND D2, ALL TAXES AND LEVIES INCLUDED.
+6) EUROSTAT prices: https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202__custom_20359708/default/table. Download the prices for Italian consumers in BAND D2, ALL TAXES AND LEVIES INCLUDED;
+7) TTF prices: https://www.investing.com/commodities/ice-dutch-ttf-gas-c1-futures. Download the historical daily prices from June 1st, 2011 to December 31st 2025.
 
 Cite as:
 
